@@ -1,5 +1,7 @@
-first open two terminal and go to client folder and backend folder
-run npm i vite in Frontend 
-run npm run dev 
-for Backend go to the Backend folder 
-hit the command npm run start
+step1:Download the project 
+step2: inside that project open two terminal on for client and one for backend
+step3: in the client terminal run the command: npm install vite
+step 4: then run the command:npm run dev
+step 5:then go the the backend terminal and hit the command: npm run start
+
+
