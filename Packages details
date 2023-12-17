@@ -1,0 +1,3 @@
+Here in the project i have used React for front end library and i have install the library axios for connecting the Frontend with then also the react-icons for using the icons
+In the backend i have used the express js framework,and install the mongoose for connecting the backend with the mongodb database,also the cors library to interact the backend with frontend
+As per the database i have used mongodb database
